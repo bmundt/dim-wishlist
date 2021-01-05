@@ -1,7 +1,7 @@
 #https://destinytracker.com/destiny-2/db/items/981718087-deafening-whisper?perks=1395789926,3525010810,2822142346,2010801679,3592538738,4248210736,2323986101,3803457565,0,2285418970
 
-title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
+title:Season 12
+description:Weapons from Season 12
 
 title:@AyyItsChevy's Super Pog PvE Loot List
 
